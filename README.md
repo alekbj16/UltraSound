@@ -1,2 +1,2 @@
 # UltraSound
-UltraSound sensor activation used for self-driving robot project
+UltraSound sensor activation used for self-driving robot project (arduino)
